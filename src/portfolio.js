@@ -29,7 +29,7 @@ const projects = [
     description:
       'This website :)',
     stack: ['Javascript', 'React', 'CSS', 'Material UI'],
-    sourceCode: 'htts://github.com/ldagaf/ldaga.dev'
+    sourceCode: 'https://github.com/ldagaf/ldaga.dev'
   }
 ]
 
